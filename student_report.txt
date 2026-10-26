@@ -1,0 +1,30 @@
+STUDENT PERFORMANCE REPORT
+==========================
+
+This report summarizes the performance of students who attended the Data Science
+Foundations course during the first semester. The students completed assignments,
+a practical examination, and a final test. Their marks are recorded below for
+academic review.
+
+# COMMENT: The following records contain the structured student details.
+# COMMENT: Each student record starts with "Student:".
+# COMMENT: Lines beginning with "#" are comments and should not become DataFrame rows.
+
+Student: 101 | Name: Arun | Department: CSE | Age: 20 | Marks: 85
+Student: 102 | Name: Priya | Department: ECE | Age: 21 | Marks: 92
+
+The teaching team observed that students who regularly practiced Python and Pandas
+were generally more confident during the practical examination. Students were
+encouraged to review their mistakes and ask questions during lab sessions.
+
+# COMMENT: Rahul and Divya are listed in the next set of records.
+Student: 103 | Name: Rahul | Department: CSE | Age: 20 | Marks: 78
+Student: 104 | Name: Divya | Department: IT | Age: 22 | Marks: 88
+
+Kiran achieved the highest score in this sample. The department plans to use this
+report to identify students who may benefit from additional practice sessions.
+This text file includes both narrative paragraphs and structured records; only
+the structured student records will be converted into a DataFrame.
+
+# COMMENT: End of student records.
+Student: 105 | Name: Kiran | Department: ECE | Age: 21 | Marks: 95
