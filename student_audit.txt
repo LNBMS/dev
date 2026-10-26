@@ -1,0 +1,26 @@
+INTERNAL STUDENT AUDIT REPORT — OCTOBER 2026
+
+The review team found that student CS-204 scored 18 out of 25 in the assessment. The dashboard reports a weighted total of 72, although the calculation method is unclear.
+
+COMMENT FROM FACULTY:
+Do not confuse a weighted total with a raw score. Some records may contain provisional marks.
+
+The following records were recovered from different sources:
+
+CS-204 | Priya Nair | score=18/25 | status=reviewed
+CS207 | Arjun Mehta | score=16/25 | status=provisional
+CS-209 | Kavya Rao | score=19/25 | status=verified
+CS-211 | Imran Ali | score=NA | status=awaiting_faculty
+CS-215 | Sana Iyer | score=ABS | status=extension_requested
+CS-218 | Dev Patel | score=20/25 | status=verified
+
+Additional observations from the review meeting:
+
+Arjun's earlier spreadsheet shows 21/25, but the assessment date is missing. It is unclear whether this represents a correction or a second attempt.
+
+Kavya's record contains an extra space after the score. Imran's missing score must not be treated as zero.
+
+CS-220 | Meera Shah | score=17/25 | status=reviewed
+CS-223 | Farhan Ali | score=14/20 | status=provisional
+
+END OF REPORT
